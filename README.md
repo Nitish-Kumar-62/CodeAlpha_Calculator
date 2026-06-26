@@ -41,10 +41,10 @@ The application performs all basic arithmetic operations with a clean and intuit
 ## 🌐 Live Project
 
 👉 **GitHub Repository:**
-https://github.com/Nitish-Kumar-62/CodeAlpha_Pro_Calculator
+https://github.com/Nitish-Kumar-62/CodeAlpha_Calculator
 
 👉 **Live Demo (GitHub Pages):**
-https://nitish-kumar-62.github.io/CodeAlpha_Pro_Calculator/
+
 
 ---
 
@@ -58,12 +58,7 @@ CodeAlpha_Pro_Calculator
 ├── script.js
 ├── README.md
 │
-├── calculator1.png
-├── calculator2.png
-└── calculator3.png
-```
-
----
+├── codealpha_calculator1.png
 
 
 
@@ -91,8 +86,8 @@ This project was developed as part of the **CodeAlpha Frontend Development Inter
 
 📧 Email:
 
-* [nitish62ni@gmail.com](mailto:nitish62ni@gmail.com)
-* [nitish62rana@gmail.com](mailto:nitish62rana@gmail.com)
+* [nitish62ni@gmail.com)
+* 
 
 🔗 GitHub:
 https://github.com/Nitish-Kumar-62
@@ -100,8 +95,3 @@ https://github.com/Nitish-Kumar-62
 💼 LinkedIn:
 https://www.linkedin.com/in/nitish-kumar-0201n2005/
 
----
-
-## ⭐ Support
-
-If you found this project helpful, don't forget to **star ⭐ this repository** on GitHub.
