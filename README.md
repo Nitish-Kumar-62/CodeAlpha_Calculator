@@ -44,7 +44,7 @@ The application performs all basic arithmetic operations with a clean and intuit
 https://github.com/Nitish-Kumar-62/CodeAlpha_Calculator
 
 👉 **Live Demo (GitHub Pages):**
-https://nitish-kumar-62.github.io/CodeAlpha_Calculator/
+ https://nitish-kumar-62.github.io/CodeAlpha_Calculator/
 
 
 ---
