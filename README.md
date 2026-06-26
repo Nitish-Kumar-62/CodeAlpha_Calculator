@@ -80,18 +80,14 @@ This project was developed as part of the **CodeAlpha Frontend Development Inter
 
 ## 👨‍💻 Author
 
-**Nitish Kumar**
+Nitish Kumar
 
-**Frontend Development Intern – CodeAlpha**
+Frontend Development Intern – @CodeAlpha
 
-📧 Email:
+📧 Email : nitish62ni@gmail.com
 
-* [nitish62ni@gmail.com)
-* 
 
-🔗 GitHub:
-https://github.com/Nitish-Kumar-62
+🔗 GitHub: https://github.com/Nitish-Kumar-62
 
-💼 LinkedIn:
-https://www.linkedin.com/in/nitish-kumar-0201n2005/
+💼 LinkedIn: https://www.linkedin.com/in/nitish-kumar-0201n2005/
 
