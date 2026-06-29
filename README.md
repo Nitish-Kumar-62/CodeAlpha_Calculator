@@ -79,7 +79,7 @@ This project was developed as part of the **CodeAlpha Frontend Development Inter
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 Nitish Kumar
 
