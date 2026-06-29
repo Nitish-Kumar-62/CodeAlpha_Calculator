@@ -63,7 +63,7 @@ CodeAlpha_Pro_Calculator
 
 
 
- # 🎯 Internship Task
+ ## 🎯 Internship Task
 
 This project was developed as part of the **CodeAlpha Frontend Development Internship**.
 
@@ -83,7 +83,7 @@ Nitish Kumar
 
 Frontend Development Intern – @CodeAlpha
 
-📧 Email : nitish62ni@gmail.com
+# 📧 Email : nitish62ni@gmail.com
 
 🔗 GitHub: https://github.com/Nitish-Kumar-62
 
